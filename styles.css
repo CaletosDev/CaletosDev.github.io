@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+#key {
+  width: 200px;
+  padding: 10px;
+  margin: 20px auto;
+  border: 1px solid #ccc;
+}
+
+#generate-btn {
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
